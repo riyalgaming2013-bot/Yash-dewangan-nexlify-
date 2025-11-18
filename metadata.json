@@ -1,0 +1,5 @@
+{
+  "name": "NeonGen Image Studio",
+  "description": "A futuristic AI image editor and generator using Gemini Nano Banana models.",
+  "requestFramePermissions": []
+}
